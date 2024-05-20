@@ -1,0 +1,10 @@
+Notebooks in this folder were developed for a EMBL-EBI course held in May 2024.
+
+These notebooks were developed to aid in navigation on:
+- Protein Data Bank in Europe Knowledge Base (PDBe-KB)
+  (pdbe-KB.org)
+- 3D-Beacons
+  (3d-beacons.org)
+
+The goal:
+to assess the effects of genetic variants on the structure and function of proteins
