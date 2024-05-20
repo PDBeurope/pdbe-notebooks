@@ -1,0 +1,35 @@
+Interpreting the effects of genetic variants on protein structure and function
+(24 May 2024)
+
+Link:
+https://www.ebi.ac.uk/training/events/interpreting-effects-genetic-variants-protein-structure-and-function-2024/
+
+Overview:
+Genetic variation between individuals results in a range of human phenotypes. Variants that fall within coding regions of genes generally have direct effects on the proteins encoded by the genes with which they overlap. This six-hour virtual workshop will provide participants with an opportunity to gain hands-on experience of using EMBL-EBI tools and resources to assess the effects of genetic variants on the structure and function of proteins in a common workflow. 
+During the course, a single example will be used throughout, using different EMBL-EBI tools and resources at each stage of the analysis pipeline. The example will involve running a VCF file through the Ensembl Variant Effect Predictor (VEP), then following links to UniProt, PDBe, and AlphaFoldDB for further variant information and interpretation. 
+
+More about the course:
+Virtual course
+This course will take place on Zoom. Trainers will be available to assist during practical sessions, answer questions, and provide further explanations during the Zoom.
+To join the course you will need to create an EMBL-EBI Training website account.
+
+Who is this course for?
+This course is aimed at wet-lab scientists and bioinformaticians who would like to use EMBL-EBI data resources to interpret the effects of genetic variants on protein structure and function.
+What will I learn?
+Learning outcomes
+
+After the course you should be able to:
+    Describe the main functionality and options available for the Ensembl Variant Effect Predictor (VEP)
+    Annotate a variation dataset using the web-based VEP tool
+    Interpret the output of the VEP and navigate to other EMBL-EBI resources to further assess variant effects on proteins
+    Access variant information in UniProt
+    Identify and evaluate experimental and predicted structures representing protein variants using PDBe-KB and AlphaFoldDB (AFDB)
+    Interpret the functional implications of variant-induced changes in protein structure
+
+Course content
+During this course you will learn about: 
+    Ensembl and the VEP tool
+    Analysis of a VCF file
+    Variant information in UniProt and how it is linked to from the VEP
+    The link between UniProt and PDBe-KB to identify experimental structures for those variants and compare structural conformations through the superposition tool
+    The link between UniProt/PDBe-KB and AlphaFoldDB, where data/resources are showcased for variant/protein interpretation
