@@ -34,4 +34,4 @@ This repository includes three main tutorials, each focusing on a unique aspect 
 
 ## License
 
-This project is licensed under the EMBL-EBI License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under Apache License Version 2.0 - see the [LICENSE](../LICENSE) file for details
